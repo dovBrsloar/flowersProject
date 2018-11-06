@@ -1,1 +1,1 @@
-This is my flavor project
+This is my flavor project ok
